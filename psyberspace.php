@@ -2,7 +2,7 @@
 /*
 Plugin Name: Psyberspace Lead Capture
 Description: Capture emails via REST API and subscribe them to a Mailchimp list and send confirmation email with PDF.
-Version: 1.1
+Version: 1.1.0
 Author: Mufaqar
 */
 
